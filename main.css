@@ -1,0 +1,6 @@
+
+body{margin:0;font-family: verdana,sans-serif;color: rgb(100,100,100);}
+.input {
+	padding-left: 150px;
+ }
+.container{ width:640px; height: 100%; background: rgb(225,225,225);margin:0 auto;}
